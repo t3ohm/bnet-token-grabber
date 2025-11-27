@@ -16,9 +16,8 @@ A tool to automate Battle.net login and extract authentication tokens.
 
 ### GUI Mode
 1. Run the executable
-2. Click "Extract Token" to start the process
-3. Copy the token from the display when complete
-
+2. Click "Start Login" to start the process
+3. Copy the token to clipboard
 ### CLI Mode
 ```bash
 TokenGrabber.exe -e "your@email.com" -p "password" --execute
